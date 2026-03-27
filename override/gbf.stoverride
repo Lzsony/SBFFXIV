@@ -1,0 +1,9 @@
+name: GBF分流
+desc: 再玩一次SBF
+author: LzSonY
+homepage: "https://github.com/Lzsony/SBFFXIV/tree/main/override"
+
+rules:
+  - DOMAIN,steam.granbluefantasy.com,🇯🇵 日本游戏丨2x JP
+  - DOMAIN,prd-game-a-granbluefantasy-steam.akamaized.net,🇯🇵 日本游戏丨2x JP
+  - DOMAIN-SUFFIX,granbluefantasy.jp,🇯🇵 日本游戏丨2x JP

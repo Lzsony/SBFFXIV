@@ -1,0 +1,7 @@
+name: FFXIV分流
+desc: 一輩子玩FF
+author: LzSonY
+homepage: "https://github.com/Lzsony/SBFFXIV/tree/main/override"
+
+rules:
+  - DOMAIN-SUFFIX,ffxiv.com.tw,🇭🇰 香港游戏丨2x HK
