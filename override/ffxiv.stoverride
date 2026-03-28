@@ -5,3 +5,4 @@ homepage: "https://github.com/Lzsony/SBFFXIV/tree/main/override"
 
 rules:
   - DOMAIN-SUFFIX,ffxiv.com.tw,🇭🇰 香港游戏丨2x HK
+  - IP-CIDR,34.143.219.219/32,🇭🇰 香港游戏丨2x HK,no-resolve
