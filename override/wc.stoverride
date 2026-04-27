@@ -1,0 +1,7 @@
+name: WC分流
+desc: 鳴潮國際服亞洲伺服器
+author: LzSonY
+homepage: "https://github.com/Lzsony/SBFFXIV/tree/main/override"
+
+rules:
+  - DOMAIN-SUFFIX,aki-game.net,🇯🇵 日本游戏丨2x JP
